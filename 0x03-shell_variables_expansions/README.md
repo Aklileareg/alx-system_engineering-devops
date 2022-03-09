@@ -1,2 +1,1 @@
-Shell Variables
-
+My readme for shell variable expansion
